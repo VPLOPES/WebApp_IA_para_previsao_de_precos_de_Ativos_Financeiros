@@ -104,7 +104,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 ## 📧 Contato
 
 - **Desenvolvido por**: VPL Consultoria
-- **Projeto**: #2
+- **(34) 99246-0756**
 - viniciuslopesp12@gmail.com
 ---
 
