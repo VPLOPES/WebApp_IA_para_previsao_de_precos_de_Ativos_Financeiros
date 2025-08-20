@@ -45,7 +45,7 @@ Um aplicativo web completo para análise técnica e previsão de preços de aç�
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/stock-analysis-app.git
+git clone https://github.com/VPLOPES/WebApp_IA_para_previsao_de_precos_de_Ativos_Financeiros
 cd stock-analysis-app
 ```
 
@@ -99,15 +99,13 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 - Adicionar novos indicadores técnicos
 - Melhorar a documentação
 
-## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 📧 Contato
 
 - **Desenvolvido por**: VPL Consultoria
 - **Projeto**: #2
-
+- **viniciuslopesp12@gmail.com
 ---
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!
