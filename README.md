@@ -105,7 +105,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 - **Desenvolvido por**: VPL Consultoria
 - **Projeto**: #2
-- **viniciuslopesp12@gmail.com
+- viniciuslopesp12@gmail.com
 ---
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!
